@@ -1,0 +1,17 @@
+body{
+text-align: center;
+}
+
+h1{
+    text-align: center;
+    color: aqua;
+}
+#btn{
+    width: 250px;
+    padding: 20px;
+    text-align: center;
+    color: blue;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+
+    
+}
